@@ -20,8 +20,8 @@ SpatialScan is an advanced real-time 3D object volume and weight measurement sys
 Follow the instructions in the repository to set up the SpatialScan 3D Object Measurement System. The provided code, schematics, and documentation will guide you through the process, allowing you to adapt the system to your specific use case.
 
 ## Usage
-1. **Set up Arduino UNO Hardware:** Ensure the dynamic Arduino-based hardware configuration is properly set up.
-2. **Run Computer Vision Module:** Initiate the OpenCV-based Computer Vision module for object recognition and segmentation.
+1. **Set up Arduino UNO Hardware:** Ensure the dynamic Arduino-based hardware configuration is properly set up including camera,Load cells and Ultrasonic sensor.
+2. **Run Integrated code:** Initiate the Integrated code after making changes of port number and set up height.
 3. **Start Measurement:** Use the user-friendly interface on Arduino IDE to start real-time measurements.
 4. **View Results:** Instantly view accurate volume and weight measurements of the 3D object.
 
