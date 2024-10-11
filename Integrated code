@@ -6,7 +6,7 @@ import numpy as np
 font = cv2.FONT_HERSHEY_COMPLEX
 key = cv2. waitKey(0)
 webcam = cv2.VideoCapture(0)
-ser = serial.Serial('COM6', 9600)
+ser = serial.Serial('COM6', 9600)   #change it according to your port number
 
 while True:
     try:
@@ -86,7 +86,7 @@ def dis():
         # print("string: ", hel)
         # print(type(hel))
         h = float(hel)
-        hght = 67-h
+        hght = 67-h               # 67 is the height of the set-up. it can be different for yours.
         # print(type(d))
         area = ((h*h*nzCount*0.000123)/100)-10
         volweight = (h*h*nzCount*0.000123*hght)/6000
