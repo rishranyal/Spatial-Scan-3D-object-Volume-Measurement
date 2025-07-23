@@ -1,4 +1,4 @@
-# SpatialScan: Computer Vision-based 3D Object Measurement System
+# Computer Vision-based 3D Object Measurement System using one conventional camera
 
 ## Overview
 SpatialScan is an advanced real-time 3D object volume and weight measurement system developed for the Inter IIT Tech-Meet 11.0 in India. The project seamlessly integrates Computer Vision techniques with a dynamic Arduino-based hardware set-up, providing accurate and efficient measurements.
