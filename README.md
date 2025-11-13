@@ -5,6 +5,8 @@ SpatialScan is an advanced real-time 3D object volume and weight measurement sys
 
 ### Key Features
 - **Real-time Measurement:** Obtain instant and accurate volume and weight measurements of 3D objects.
+  <img width="1383" height="630" alt="image" src="https://github.com/user-attachments/assets/dbf395dd-c2ca-4d05-bc10-abe980748c62" />
+
 - **Computer Vision Integration:** Utilizes advanced OpenCV algorithms for object recognition, segmentation, and measurement.
 - **Dynamic Hardware Set-up:** The system incorporates a dynamic Arduino-based hardware configuration to adapt to different object shapes and sizes.
 - **Efficient Frame Rate:** Achieved an efficient average frame rate of 30 frames per second for webcam frame processing.
